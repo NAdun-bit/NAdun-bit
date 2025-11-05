@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Spring Boot**
 
-- 🤝 I’m an Undergraduate at **SLLIT**
+- 🤝 I’m an Undergraduate at **SLIIT**
 
 - 👨‍💻 All of my projects are available at [https://github.com/NAdun-bit](https://github.com/NAdun-bit)
 
